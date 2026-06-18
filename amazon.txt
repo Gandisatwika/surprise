@@ -1,0 +1,19 @@
+1.Owner/user - u
+2.Group - g
+3.Other user - o
+4.all - a
+
+1)read - 4
+2)write - 2
+3)execute - 1
+
+*To add - +
+*To remove - -
+*to overwrite - =
+
+->To see all the permissions  = ls -l
+->To give the permission = chmod permission filename
+
+Ex:chmod u+x a.txt
+Ex:chmod 767 a.txt
+
