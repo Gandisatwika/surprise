@@ -1,0 +1,11 @@
+create user - adduser username
+whoami
+who
+cat/etc/passwd or getent passwd
+su user_name
+su - user_name
+userdel user_name
+userdel -r user_name
+getent passwd user_name
+id user_name
+exit
